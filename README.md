@@ -44,7 +44,6 @@ I design and build **scalable, resilient, and production-ready systems** where p
 - Building and contributing to **SaaS platforms**
 - Designing **fintech & payment systems**
 - Growing into a **Software / Solutions Architect role**
-- Open to opportunities in **Canada 🇨🇦, Europe 🇪🇺, Remote**
 
 ---
 
