@@ -1,112 +1,109 @@
-<h1 align="center">Hi 👋, I'm Saïfoulaye Diallo</h1>
-<h3 align="center">SaaS & Fintech Software Engineer → Future Architect | Building Scalable & Resilient Systems</h3>
+<h1 align="center">Saïfoulaye Diallo</h1>
 
-<hr/>
+<p align="center">
+  Software Engineer • Fintech • SaaS • Distributed Systems
+  <br/>
+  Building scalable, resilient, and production-ready systems.
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SaaS%20%26%20Fintech%20Engineer;Backend%20%7C%20Distributed%20Systems;Java%20%7C%20Spring%20Boot%20%7C%20Microservices;Designing%20Scalable%20%26%20Resilient%20Systems;Open%20to%20Canada%20%26%20Europe&font=Fira%20Code&center=true&width=600&height=45&color=00bfff&vCenter=true&pause=1000&size=22" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Fintech%20%26%20Backend%20Engineer;Java%20%7C%20Spring%20Boot%20%7C%20Microservices;Distributed%20Systems%20%26%20Cloud%20Architecture;Designing%20Reliable%20%26%20Scalable%20Platforms&font=Fira%20Code&center=true&width=650&height=40&color=0ea5e9&vCenter=true&pause=1200&size=20" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Software Engineer with experience in **banking systems, fintech platforms, and high-traffic applications**, currently evolving toward a **SaaS & Software Architect role**.
+Backend-focused Software Engineer with experience building systems for fintech, SaaS, and high-traffic applications.
 
-I design and build **scalable, resilient, and production-ready systems** where performance, reliability, and business impact are critical.
+Focused on:
+- scalable architectures
+- resilient backend systems
+- distributed applications
+- cloud-native engineering
+- payment & financial platforms
 
----
-
-### 🚀 What I Do
-
-- Design **scalable backend architectures (microservices, APIs)**
-- Build **high-performance systems** with Java & Spring Boot  
-- Optimize applications → **latency reduction up to 60%**
-- Implement **CI/CD pipelines & DevOps practices**
-- Translate complex business needs into **simple, maintainable systems**
+Currently evolving toward Software & Solutions Architecture.
 
 ---
 
-### 🏗️ Core Expertise
+## Core Expertise
 
-- **Backend:** Java, Spring Boot, REST APIs  
-- **Architecture:** Microservices, Distributed Systems, Scalability, Resilience  
-- **Frontend:** Angular, React, TypeScript  
-- **DevOps:** Docker, CI/CD, AWS, Kubernetes (learning & applying)  
-- **Data:** PostgreSQL, MySQL, MongoDB, Redis  
-
----
-
-### 🌍 Current Focus
-
-- Building and contributing to **SaaS platforms**
-- Designing **fintech & payment systems**
-- Growing into a **Software / Solutions Architect role**
+- **Backend:** Java, Spring Boot, REST APIs
+- **Architecture:** Microservices, Distributed Systems, Scalability
+- **Cloud & DevOps:** Docker, Kubernetes, AWS, CI/CD
+- **Data:** PostgreSQL, Redis, MongoDB
+- **Frontend:** Angular, React, TypeScript
 
 ---
 
-## 🌐 Connect With Me
+## Featured Projects
 
-<p align="center">
-  <a href="https://linkedin.com/in/diallodev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/diallo__dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg" width="32"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sayfou_diallo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32"/>
-  </a>
+### Fintech Payment Platform
+Scalable payment processing platform with transaction workflows, retries, idempotency, and secure APIs.
+
+**Stack:** Java • Spring Boot • PostgreSQL • Redis • Docker
+
+---
+
+### Distributed File Replication System
+Peer-to-peer distributed system with replication, fault tolerance, and node synchronization.
+
+**Focus:** Distributed Systems • Replication • Resilience
+
+---
+
+### Avis SaaS Platform
+Enterprise receipt/document generation platform for banking operations with PDF generation and multi-tenant architecture.
+
+**Stack:** Spring Boot • JasperReports • PostgreSQL
+
+---
+
+## Engineering Principles
+
+- Clean Architecture
+- Scalability First
+- Reliability & Observability
+- Maintainable Systems
+- Business-Oriented Engineering
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/diallodev" target="_blank">LinkedIn</a> •
+  <a href="https://x.com/diallo__dev" target="_blank">X/Twitter</a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### ⚙️ Backend & Architecture
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
-
-### 🚀 DevOps & Cloud
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=saifcores&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifcores&theme=radical&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saifcores&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifcores&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 ---
 
-## 🚀 Let's Collaborate
-
-I’m open to working on:
-- SaaS platforms  
-- Fintech / Payment systems  
-- Scalable backend architectures  
-
-👉 If you're building something ambitious, let’s connect.
+<p align="center">
+  Open to fintech, SaaS, backend, and distributed systems opportunities.
+</p>
