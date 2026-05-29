@@ -39,29 +39,6 @@ Currently evolving toward Software & Solutions Architecture.
 
 ---
 
-## Featured Projects
-
-### Fintech Payment Platform
-Scalable payment processing platform with transaction workflows, retries, idempotency, and secure APIs.
-
-**Stack:** Java • Spring Boot • PostgreSQL • Redis • Docker
-
----
-
-### Distributed File Replication System
-Peer-to-peer distributed system with replication, fault tolerance, and node synchronization.
-
-**Focus:** Distributed Systems • Replication • Resilience
-
----
-
-### Avis SaaS Platform
-Enterprise receipt/document generation platform for banking operations with PDF generation and multi-tenant architecture.
-
-**Stack:** Spring Boot • JasperReports • PostgreSQL
-
----
-
 ## Engineering Principles
 
 - Clean Architecture
