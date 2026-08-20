@@ -116,7 +116,7 @@ Fintech · banking platforms · distributed systems
 
 <p>
   <a href="https://saifcore.vercel.app"><img src="https://img.shields.io/badge/Portfolio_%26_packages-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/diallodev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/sayfoulaye-diallo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 </div>
