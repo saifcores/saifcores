@@ -9,9 +9,9 @@
 Dakar (GMT) · Remote worldwide · FR / EN
 
 <p>
-  <a href="https://saifcore.vercel.app"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/diallodev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/diallo__dev"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://saifcore.tech"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/sayfoulaye-diallo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/sayfullah0502"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://github.com/saifcores"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=saifcores&label=views&color=38bdf8&style=flat-square" alt="Profile views"/>
 </p>
