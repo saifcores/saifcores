@@ -94,7 +94,9 @@ Recent delivery includes enterprise banking platforms for **Bank of Africa Group
   <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=saifcores&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="Stats"/>
   <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=saifcores&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=saifcores&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="150" alt="Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=saifcores&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="150" alt="Streak"/>
+  </a>
 </div>
 
 ****
